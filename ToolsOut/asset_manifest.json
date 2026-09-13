@@ -1,0 +1,31 @@
+﻿{
+  "backgrounds": [
+    "styles_manor_dusk",
+    "styles_library",
+    "styles_hall",
+    "styles_manor_night",
+    "styles_corridor",
+    "styles_bedroom",
+    "styles_village",
+    "styles_cottage",
+    "styles_boudoir",
+    "styles_courtroom",
+    "styles_chemist",
+    "styles_garden",
+    "styles_board"
+  ],
+  "characters": [
+    "john|neutral",
+    "emily|neutral",
+    "alfred|neutral",
+    "evelyn|neutral",
+    "mary|neutral",
+    "lawrence|neutral",
+    "poirot|neutral",
+    "hastings|neutral",
+    "japp|neutral",
+    "bauerstein|neutral"
+  ],
+  "cgs": [],
+  "missing": []
+}

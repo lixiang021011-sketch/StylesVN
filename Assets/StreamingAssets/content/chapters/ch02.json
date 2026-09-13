@@ -1,0 +1,527 @@
+{
+  "id": "ch02",
+  "act": "第一章",
+  "title": "悲剧之夜",
+  "summary": "七月十八日 · 凌晨",
+  "beats": [
+    {
+      "t": "bg",
+      "id": "styles_corridor"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我是被劳伦斯·卡文迪什叫醒的。他手里举着一支蜡烛，脸白得像蜡本身。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我先听见的不是他的声音，而是别的东西：楼板在响，有人在走廊里来回急走；还有铃声。那口铃装在每个仆人的房间里，只有从女主人床头那根拉绳上扯动才会响。那天凌晨，它被扯得像是要把绳子拉断。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我抓了睡袍冲出去。走廊里只有一支蜡烛亮着，光在墙上晃，把几个人的影子拖得又长又歪。多卡斯已经从仆人那侧跑上来，头发散着，一边走一边在胸前画十字；安妮站在楼梯口，双手捂住嘴；约翰只穿一件衬衫，正在拧那扇门的把手。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "门把转得动，门纹丝不动。约翰用肩膀撞了一下，门框回敬他一声闷响。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“从里面闩住了。”他说，“母亲睡觉一直闩门——可是从里面闩三道门，她一个人做不到。”",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "后来我才知道那三道门分别通向哪里：一道通走廊，一道通她丈夫的房间，还有一道通辛西娅·默多克的房间。三个门闩，全部闩着。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "房间里传出一种声音。我在战场上听过人受伤，听过马被弹片撕开，都没有听过那样的声音——不是叫喊，是一种被强行拉扯的、有节奏的呻吟，中间夹着木头被顶撞的钝响。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“妈妈！妈妈，是约翰！把门打开！”约翰喊到第三遍时，声音已经劈了。玛丽站在他身后，一言不发地拉紧睡袍；她的眼睛没有看门，而是盯着走廊尽头那扇通往楼下仆役间的窄门。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“让开。”约翰退后两步，撞了上去。第一下，门框上掉下一点灰；第二下，锁舌在木头上磨出尖响；第三下，门框从合页那一侧裂开，我们连人带门一起跌进了房间。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "lawrence",
+      "text": "快起来。我们担心母亲病得很重——她把自己锁在房间里了。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "走廊上已经站满了人。约翰在撞门，多卡斯绞着手在哭，两个女仆缩在墙边。门把手转得动，门却纹丝不动——它从里面闩死了。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "多卡斯那一夜几乎说不出整齐的话。她反复念叨的是：铃响的时候她还以为是做梦；跑到楼上时门已经闩住了；她隔着门喊“太太”，里面只有那种声音在应她。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“她每天睡前都喝可可。”多卡斯抽着气说，“自己用小锅煮，从不让别人动。她说那样才睡得着。”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“今晚也一样？”玛丽问。她问得很轻，像是怕把什么东西吵醒。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“一样。我看着她把酒精灯端上楼的。”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我后来常常想起这段对话：凌晨五点，所有人都已经站在犯罪现场里了，却没有一个人知道自己站在哪里。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "john",
+      "text": "从连通门试试！不行就撞开！",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "英格尔索普先生呢？",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "没有人回答。后来我才知道，那间属于丈夫的房间整夜空着，床铺平整得没有一道褶皱。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ],
+      "give": "alfred_out"
+    },
+    {
+      "t": "bg",
+      "id": "styles_bedroom"
+    },
+    {
+      "t": "fx",
+      "fx": "shake"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "门框在第三次撞击下裂开了。我们跌进房间。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "艾米莉·英格尔索普躺在床上，全身被剧烈的抽搐扯成一张弓的形状。床边的桌子翻倒在地，台灯碎了，咖啡杯碎了，铃绳被她自己扯得变了形。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我在战场上养成的坏习惯这时起了作用：进门那一秒，我先看了一圈房间，然后才开始发抖。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "房间不大：一张床、一座衣柜、一张梳妆台、一张小圆桌。小圆桌翻倒在地，桌上的东西撒了一地——一盏摔碎的台灯，一只碎成几片的咖啡杯，还有一盒火柴。窗子关着；通往辛西娅房间那扇门闩着；壁炉里有一小堆还很新鲜的火，灰上盖着一片没烧透的厚纸。地板上有一大片白色的烛油，硬得发亮——可这间房里只有油灯，没有蜡烛。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "辛西娅是第三个挤进来的人。她穿着睡袍，头发披着，看见床上的样子忽然停住，像被人从背后按住。多卡斯扑过去替女主人擦嘴角，被她按住了手腕。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“别碰她！”辛西娅说，声音尖得连她自己都吓了一跳，“医生——快去叫医生！威尔金斯医生在村子另一头！”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "劳伦斯转身就跑。约翰跪在床边握着他母亲的手，那只手在他掌心里一下一下地抽紧，像拉满的弓弦。玛丽站在门口没有进来，一只手扶着门框，脸色比墙灰还白。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "emily",
+      "text": "好一点了……忽然就……是我自己蠢……把自己锁了起来……",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "她的声音像从一段很长的隧道那头传来。黑斯廷斯后来在笔记里写道：她到最后一刻都神志清醒。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "emily",
+      "text": "阿尔弗雷德——阿尔弗雷德——",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ],
+      "give": "dying"
+    },
+    {
+      "t": "fx",
+      "fx": "fade"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "早上五点半，威尔金斯医生赶到的时候，她已经死了。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ],
+      "give": "time"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "她的两只手死死抓着床单，眼睛没有闭上。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "威尔金斯医生是六点以前赶到的。他进门只看了一眼就明白了大概：瞳孔、牙关、被褥上被踢出来的褶皱，还有那具身体已经完全不受控制的形态。他站在床边沉默了几秒，然后说了一句我至今记得的话：“这是士的宁。她已经服下很久了。”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“多久？”约翰问。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“几个小时。奇怪的地方就在这里——士的宁发作极快，服下之后十几分钟到半小时就该抽搐。她不可能四点半服药，然后等到四时五十分才发作。”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "这句话像一根钉子钉进了整间屋子。后来整个案子的走向，就是从这根钉子上长出来的。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "天亮之后，斯泰尔斯变成了另一所房子。电话打到了米德林厄姆，警局派人来；多卡斯把客厅的窗帘拉上，好像那样就能把死亡挡在门外；安妮在厨房里哭，哭到一半又想起来煮水。威尔金斯医生守着那间房，不许任何人再进去。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "上午十点，我第一次看见英格尔索普先生——他从村子里回来，外套上还带着清晨的潮气，听说妻子死了，他在门口站了一会儿，然后摘下帽子，问：“她留下什么话了吗？”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“她叫了你的名字。”约翰说。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“啊。”阿尔弗雷德·英格尔索普点了点头，把帽子放在桌上，“那太好了。”",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我记得当时自己愣了很久。多年以后我明白，那句话并不是冷酷——它是一个已经算好每一步的人，在某一个步骤上提前得到了确认。",
+      "figs": [
+        {
+          "id": "lawrence",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "三天后，验尸报告出来了：士的宁中毒。",
+      "figs": []
+    },
+    {
+      "t": "note",
+      "title": "士的宁，一九一七年",
+      "icon": "◆",
+      "body": "<b>士的宁</b>（马钱子碱）在当时是一种常见的<b>补药</b>成分——微量能开胃、提神，药房里随便就能配。\n它同时也是最残忍的毒药之一：作用于脊髓，让肌肉在<b>完全清醒的状态下</b>一寸寸锁死，最后因呼吸肌强直而窒息。\n最关键的一点：它<b>发作极快</b>。服下之后十几分钟到半小时就会抽搐——绝不会等上几个小时。"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "poirot",
+    "name": "赫尔克里·波洛",
+    "role": "比利时退休警探 · 本案侦探",
+    "description": "矮小的比利时人，头形像一枚鸡蛋，留着精心修饰的八字胡。讲究整洁与对称，自称靠\"小小的灰色脑细胞\"破案。因战争流亡到斯泰尔斯圣玛丽村。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "hastings",
+    "name": "阿瑟·黑斯廷斯",
+    "role": "波洛的战友与记录者",
+    "description": "从西线负伤回国休假的年轻军官，约翰·卡文迪什的旧友。热心、直率、藏不住心事——也是本卷记录的执笔人。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "emily",
+    "name": "艾米莉·英格尔索普",
+    "role": "斯泰尔斯庄园女主人 · 死者",
+    "description": "年约七十，精明强干，握有家族全部财产的支配权。她立了又改的遗嘱，是全家人心头的一根刺。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "alfred",
+    "name": "阿尔弗雷德·英格尔索普",
+    "role": "死者的丈夫",
+    "description": "比妻子年轻许多，留黑色络腮胡，戴夹鼻眼镜。数月前与艾米莉结婚，举止阴沉，来历含糊。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "john",
+    "name": "约翰·卡文迪什",
+    "role": "死者的继子",
+    "description": "长子，退伍军官，性急而骄傲，手头拮据。按父亲遗嘱将继承斯泰尔斯庄园的房产，却一时拿不到现钱。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "lawrence",
+    "name": "劳伦斯·卡文迪什",
+    "role": "死者的继子",
+    "description": "次子，神情总是郁郁不乐，戴圆框眼镜。喜爱瓷器与诗，做事迟疑。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "mary",
+    "name": "玛丽·卡文迪什",
+    "role": "约翰的妻子",
+    "description": "高挑而矜持的美人，出身好、话极少。战争期间在庄园的田地里干活，臂上戴着绿色劳动臂章。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "cynthia",
+    "name": "辛西娅·默多克",
+    "role": "死者的养女 · 医院药房助手",
+    "description": "活泼的年轻姑娘，在红十字医院药房做事，因此能接触毒物——这使得她一开始就站在危险的位置上。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "evelyn",
+    "name": "伊夫琳·霍华德",
+    "role": "死者的女伴",
+    "description": "说话干脆、像个男人的中年女子，是阿尔弗雷德·英格尔索普公开的仇敌，多次当面痛骂他。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "dorcas",
+    "name": "多卡斯",
+    "role": "女管家",
+    "description": "在斯泰尔斯服务多年，健谈、琐碎、记性好，知道这家人所有的旧账。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "japp",
+    "name": "贾普探长",
+    "role": "苏格兰场",
+    "description": "圆脸、留短髭、戴圆顶礼帽。务实，急于抓人，却在关键处愿意相信波洛的判断。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "wilkins",
+    "name": "威尔金斯医生",
+    "role": "斯泰尔斯家庭医生",
+    "description": "老派全科医生，起初坚持这是一场自然死亡。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "bauerstein",
+    "name": "鲍尔斯坦医生",
+    "role": "毒物学权威 · 邻居",
+    "description": "住在附近，专业上无人能及，为人却阴森得令人不安。战时身份可疑。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "wells",
+    "name": "威尔斯先生",
+    "role": "艾米莉的律师兼验尸官",
+    "description": "负责遗嘱事务，也要主持死因调查。",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "unknown",
+    "name": "无名者",
+    "role": "？",
+    "description": "一个还不该出现的影子。",
+    "emotions": [
+      "neutral"
+    ]
+  }
+]

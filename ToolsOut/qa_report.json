@@ -1,0 +1,443 @@
+[
+  {
+    "file": "styles_manor_dusk.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 80.0,
+    "stdev": 37.7,
+    "ok": true,
+    "name": "styles_manor_dusk"
+  },
+  {
+    "file": "styles_manor_night.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 48.4,
+    "stdev": 29.1,
+    "ok": true,
+    "name": "styles_manor_night"
+  },
+  {
+    "file": "styles_garden.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 101.4,
+    "stdev": 54.9,
+    "ok": true,
+    "name": "styles_garden"
+  },
+  {
+    "file": "styles_village.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 85.9,
+    "stdev": 40.9,
+    "ok": true,
+    "name": "styles_village"
+  },
+  {
+    "file": "styles_hall.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 76.1,
+    "stdev": 32.4,
+    "ok": true,
+    "name": "styles_hall"
+  },
+  {
+    "file": "styles_library.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 36.7,
+    "stdev": 33.1,
+    "ok": true,
+    "name": "styles_library"
+  },
+  {
+    "file": "styles_boudoir.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 118.2,
+    "stdev": 48.0,
+    "ok": true,
+    "name": "styles_boudoir"
+  },
+  {
+    "file": "styles_bedroom.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 94.5,
+    "stdev": 43.4,
+    "ok": true,
+    "name": "styles_bedroom"
+  },
+  {
+    "file": "styles_corridor.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 51.9,
+    "stdev": 28.5,
+    "ok": true,
+    "name": "styles_corridor"
+  },
+  {
+    "file": "styles_cottage.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 81.1,
+    "stdev": 39.0,
+    "ok": true,
+    "name": "styles_cottage"
+  },
+  {
+    "file": "styles_courtroom.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 75.8,
+    "stdev": 48.2,
+    "ok": true,
+    "name": "styles_courtroom"
+  },
+  {
+    "file": "styles_chemist.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 65.4,
+    "stdev": 47.9,
+    "ok": true,
+    "name": "styles_chemist"
+  },
+  {
+    "file": "styles_board.png",
+    "size": [
+      1536,
+      864
+    ],
+    "mode": "RGB",
+    "mean": 90.6,
+    "stdev": 48.8,
+    "ok": true,
+    "name": "styles_board"
+  },
+  {
+    "file": "title_styles.png",
+    "size": [
+      1920,
+      1080
+    ],
+    "mode": "RGB",
+    "mean": 99.7,
+    "stdev": 54.1,
+    "ok": true,
+    "name": "title_styles"
+  },
+  {
+    "file": "poirot_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 11.6,
+    "stdev": 30.2,
+    "alphaCoverage": 0.272,
+    "ok": true,
+    "name": "poirot",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 337.9,
+      "bgSat": 0.422,
+      "coverage": 0.226,
+      "speckPixels": 337,
+      "bottomBand": 0.101
+    }
+  },
+  {
+    "file": "hastings_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 13.4,
+    "stdev": 31.0,
+    "alphaCoverage": 0.276,
+    "ok": true,
+    "name": "hastings",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 324.0,
+      "bgSat": 0.5,
+      "coverage": 0.237,
+      "speckPixels": 277,
+      "bottomBand": 0.114
+    }
+  },
+  {
+    "file": "emily_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 7.7,
+    "stdev": 28.2,
+    "alphaCoverage": 0.245,
+    "ok": true,
+    "name": "emily",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 331.5,
+      "bgSat": 0.436,
+      "coverage": 0.22,
+      "speckPixels": 1543,
+      "bottomBand": 0.141
+    }
+  },
+  {
+    "file": "alfred_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 16.1,
+    "stdev": 41.8,
+    "alphaCoverage": 0.272,
+    "ok": true,
+    "name": "alfred",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 316.5,
+      "bgSat": 0.64,
+      "coverage": 0.224,
+      "speckPixels": 49,
+      "bottomBand": 0.106
+    }
+  },
+  {
+    "file": "john_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 13.5,
+    "stdev": 33.1,
+    "alphaCoverage": 0.264,
+    "ok": true,
+    "name": "john",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 330.0,
+      "bgSat": 0.451,
+      "coverage": 0.219,
+      "speckPixels": 2436,
+      "bottomBand": 0.091
+    }
+  },
+  {
+    "file": "lawrence_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 16.3,
+    "stdev": 35.4,
+    "alphaCoverage": 0.263,
+    "ok": true,
+    "name": "lawrence",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 317.4,
+      "bgSat": 0.436,
+      "coverage": 0.225,
+      "speckPixels": 768,
+      "bottomBand": 0.163
+    }
+  },
+  {
+    "file": "mary_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 16.5,
+    "stdev": 41.0,
+    "alphaCoverage": 0.281,
+    "ok": true,
+    "name": "mary",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 330.6,
+      "bgSat": 0.478,
+      "coverage": 0.239,
+      "speckPixels": 893,
+      "bottomBand": 0.153
+    }
+  },
+  {
+    "file": "cynthia_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 23.1,
+    "stdev": 52.3,
+    "alphaCoverage": 0.214,
+    "ok": true,
+    "name": "cynthia",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 300.0,
+      "bgSat": 0.347,
+      "coverage": 0.179,
+      "speckPixels": 12,
+      "bottomBand": 0.077
+    }
+  },
+  {
+    "file": "evelyn_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 7.7,
+    "stdev": 25.1,
+    "alphaCoverage": 0.253,
+    "ok": true,
+    "name": "evelyn",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 324.0,
+      "bgSat": 0.419,
+      "coverage": 0.215,
+      "speckPixels": 1979,
+      "bottomBand": 0.093
+    }
+  },
+  {
+    "file": "dorcas_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 24.4,
+    "stdev": 53.6,
+    "alphaCoverage": 0.317,
+    "ok": true,
+    "name": "dorcas",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 321.6,
+      "bgSat": 0.235,
+      "coverage": 0.301,
+      "speckPixels": 173,
+      "bottomBand": 0.15
+    }
+  },
+  {
+    "file": "japp_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 11.2,
+    "stdev": 28.6,
+    "alphaCoverage": 0.268,
+    "ok": true,
+    "name": "japp",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 323.0,
+      "bgSat": 0.484,
+      "coverage": 0.229,
+      "speckPixels": 23,
+      "bottomBand": 0.131
+    }
+  },
+  {
+    "file": "wilkins_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 11.9,
+    "stdev": 32.9,
+    "alphaCoverage": 0.29,
+    "ok": true,
+    "name": "wilkins",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 333.6,
+      "bgSat": 0.352,
+      "coverage": 0.256,
+      "speckPixels": 496,
+      "bottomBand": 0.158
+    }
+  },
+  {
+    "file": "bauerstein_neutral.png",
+    "size": [
+      832,
+      1216
+    ],
+    "mode": "RGBA",
+    "mean": 9.2,
+    "stdev": 26.4,
+    "alphaCoverage": 0.253,
+    "ok": true,
+    "name": "bauerstein",
+    "cutout": {
+      "key": "magenta",
+      "bgHue": 312.0,
+      "bgSat": 0.467,
+      "coverage": 0.208,
+      "speckPixels": 3403,
+      "bottomBand": 0.082
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "chapters": [
+    "chapters/ch01.json",
+    "chapters/ch02.json",
+    "chapters/ch03.json",
+    "chapters/ch04.json",
+    "chapters/ch05.json",
+    "chapters/ch06.json",
+    "chapters/ch07.json",
+    "chapters/ch08.json",
+    "chapters/ch09.json"
+  ],
+  "characters": [
+    "characters.json"
+  ],
+  "evidence": [
+    "evidence.json"
+  ],
+  "investigations": [
+    "investigations.json"
+  ],
+  "interrogations": [
+    "interrogations.json"
+  ]
+}

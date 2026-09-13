@@ -1,0 +1,942 @@
+{
+  "id": "ch09",
+  "act": "终章",
+  "title": "波洛的解释",
+  "summary": "斯泰尔斯庄园 · 客厅 · 下午三点",
+  "beats": [
+    {
+      "t": "bg",
+      "id": "styles_library"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "客厅里坐满了人：约翰与玛丽靠在一起，劳伦斯站在窗边，辛西娅缩在沙发角落，多卡斯与安妮挤在门口。贾普探长把手插在口袋里，一脸不痛快。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "最后进来的是阿尔弗雷德·英格尔索普。伊夫琳·霍华德从米德林厄姆被请了回来——她进门时，与他对视了半秒钟。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "那半秒钟里，客厅中所有人都看见了同一件事，却没有人愿意说出口：这两个人不像女伴与雇主，也不像亲戚——他们像一对合作多年的搭档，在开场前交换了一个眼神。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "波洛把那块木板搬到了客厅中央。上面钉着三十几张纸片：门闩、烛油、咖啡杯、公文包、登记簿、假胡子、那封被改成“7月17日”的信、壁炉灰里的遗嘱碎片。每一张纸片下面都有一条线，连向另一些纸片。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“一个人死了，留下三十七件东西。”他说，“其中三十六件是别人希望我看见的——它们全都指向同一个方向。只有一件，是凶手希望我永远不要看见的。”",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "他停了一下，环视客厅。窗外的榆树在风里响，像有人在很远的地方翻纸。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“现在，请允许我从头讲一遍。讲完之后，你们会明白为什么我今天没有让贾普探长带走任何一个人。”",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "先生们，女士们。你们每个人手里都握着这桩案子的一块碎片。现在，我要你们把它们交给我。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "但要先请黑斯廷斯上尉完成一件更重要的事——他要把整件案子讲一遍。因为这一次，是由他来指认凶手。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "波洛转向我。他点了点头。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "我的朋友，我在等你。这屋子里的人也在等你。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "accuse"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "波洛站了起来。他把桌上的东西一件件摆直：药瓶、纸捻、绿布丝、烛台——就像他每天摆直多米诺骨牌那样。然后他开始讲。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "一切从一句谎言开始，而不是从一杯毒药开始。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "七月初，伊夫琳·霍华德与艾米莉·英格尔索普大吵一场，然后\"愤然\"离开。那场吵架是真的——火气是真的，可以去掉的薪水是真的，行李箱是真的。只有一件事是假的：那不是吵架，那是一次<b>撤离</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "他们两人是表亲，也许更早就有了别的关系。他们合谋的方式非常体面：让阿尔弗雷德娶一位有钱的、上了年纪的太太，让她把遗嘱改成他的名字，然后——让她死。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "但他们不想冒被绞死的险。所以他们设计了两种保险。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第一种保险，是毒的方法。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "她的补药里有微量士的宁。伊夫琳熟悉药理——她父亲是医生，她会配药。她只要把一包溴化物溶进那只大药瓶就行：溴化物会让士的宁<b>结晶沉淀</b>，药水一天天变浓，而最后一剂，就是全部的毒。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "这一手的好处在于：瓶子是干净的，处方是干净的，习惯是干净的。没有人下毒，是时间在下毒。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第二种保险，是证据。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "七月十六日星期一傍晚六点，阿尔弗雷德·英格尔索普故意让自己出现在村外两英里半的路上，被五个人看见。同一时刻，一个留黑胡子、戴夹鼻眼镜、声音低哑的人走进库特药房，买下一盎司士的宁，说要毒死一条狗——然后在登记簿上签下了约翰·卡文迪什的名字。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "那个人不是阿尔弗雷德。是她。表亲之间有血缘，连走路的姿态都相似；她的嗓音本来就低；她只需要一副假胡子和一副夹鼻眼镜。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "同一天，约翰收到一封用他自己笔迹写成的匿名短信，被支到树林边站了一个多小时。这样他也没有了不在场证明。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "到了这一步，凶器其实还在药瓶里，士的宁也已经买好了——但它不是用来毒死人的，它是用来<b>给别人看的</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "那么那封信呢？他为什么要在妻子活着的时候写信给同谋？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "因为计划出了一次差错：星期一晚上，她没有服药。整个安排被迫推迟一天，同谋在米德林厄姆坐不住了。他坐下来写信安抚她——然后太太回来了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "他慌忙合上写字台的盖子，锁上，走出去。他没有想到，那天下午他的妻子在他的桌子里找邮票。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "她读到了那封信。信里有一句关于\"溴化物\"的话，可那句话对她毫无意义——她不知道危险在哪里，她只知道<b>危险就在这个家里</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "所以她做了一件最合乎她性格的事：不吵，不闹，不告诉丈夫。她写了一封信给律师，请威尔斯先生第二天来；然后把当天下午刚刚立好、把一切都留给丈夫的那份新遗嘱，扔进了火里。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "七月，八十华氏度，她让人给卧室壁炉生火。我们所有人都觉得奇怪，却没有一个人想通——因为最明显的事，总是最难看懂。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "那一夜，她按习惯服下最后一剂补药，锁好门，睡了。四时五十分，毒性发作。她推倒床边的桌子，拼命拉响铃铛。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "而在那一刻，那间屋里还有一个活着的人——玛丽·卡文迪什。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "mary",
+      "text": "……",
+      "figs": [
+        {
+          "id": "mary",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "夫人，您穿过辛西娅的房间进入那间屋子，门闩上留下了您劳动臂章的纤维。您在那里寻找某样东西，没有找到。夫人被惊醒时，您打翻了蜡烛，退回了辛西娅的房间，然后摇醒她，装作刚刚赶到。",
+      "figs": [
+        {
+          "id": "mary",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "您之所以沉默，不是为了隐瞒罪恶，而是为了保护一个骄傲的姓——您以为这场官司只要不落在<b>他</b>头上，就与您无关。",
+      "figs": [
+        {
+          "id": "mary",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "（玛丽低下头。约翰伸出手，握住了她的手。那一下，是我这辈子见过的最用力的一次握手。）",
+      "figs": [
+        {
+          "id": "mary",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "至于劳伦斯先生——他冲进房间时，越过我的肩膀看见的，是通往辛西娅房间那扇<b>没有闩上</b>的门。他立刻认定那个姑娘有罪，于是踩碎了地上的咖啡杯，从此坚持\"自然死亡\"。一个人为了保护所爱的人，能够做出多么愚蠢的事啊。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "他甚至连我给的那句钓饵也吞了下去——\"找到那只多出来的咖啡杯，你就可以安息\"——他整夜翻找，因为那意味着辛西娅可以洗清。他一直不知道，那只是我在看他的脸。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "现在，只剩最后一件事：那封信。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "阿尔弗雷德先生强迫自己公文包的锁，翻出那封信，却不敢把纸带在身上。走廊上有人在刷楼梯，废纸篓会被搜查，屋里的火不能生。于是他把它撕成长条，卷成纸捻，插进了壁炉台上的那只瓷瓶里，和别的纸捻混在一起。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "他打算以后再回来毁掉它。可惜他没有机会：我把自己的怀疑告诉了全家每一个人——十位业余侦探，日夜看着他一举一动。他不敢再踏进那个房间。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "而最终找到它的，是黑斯廷斯的一句闲话。他告诉我，我的手在发抖，因为我正在摆正壁炉台上的装饰——可我那天早上已经摆正过一次。如果它们又乱了，就说明有人在两次之间<b>碰过它们</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "japp",
+      "text": "（探长把手从口袋里抽出来，神色复杂。）这么说，我差点把他铐起来，替他办了这桩案子。",
+      "figs": [
+        {
+          "id": "japp",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "是的，我的朋友。而一个被宣判无罪的凶手，从此就再也不能被审判——那才是他们最想要的东西。",
+      "figs": [
+        {
+          "id": "japp",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "在我说出名字之前，请允许我把这条链子一节一节拆开。因为你们每一个人，都只看到了其中一节。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第一节，动机。三个月前，一位年近七十的寡居女人，在伦敦嫁给了一个比她小二十岁的男人。她有钱，房产、股票、嫁妆都在她手里；她还有一种老人特有的清醒——她开始怀疑，也开始查证。七月十七日下午四点，她在门厅里说了那句话：“你骗了我，欺骗了我。是我养着你、给你衣服穿、给你饭吃！”那不是夫妻吵架，那是一个人已经查到了答案。她当天写了信，请律师第二天早上来——她要改遗嘱。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第二节，工具。你们都在找一种“如何把毒药送进一间闩死的房间”的办法。可这桩案子根本不需要送。士的宁本来就在她的补药里——医生开的，每晚一剂，她喝了几个月。凶手只需要再加一样东西：溴化物，她自己失眠时服的那种药粉。溴化物使士的宁结晶、沉淀到瓶底。药水一天天变浓，而处方、瓶子、服药的习惯全都无懈可击。七月十七日夜里，她按习惯喝下了最后一剂——那一剂，正好是最毒的一剂。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第三节，假线索。可可、咖啡、浓茶——三样东西都被摆在最显眼的地方，因为任何读过侦探小说的人都会先去看它们。可士的宁发作极快：十五分钟到半小时。她凌晨四时五十分发作，那杯可可却是十一点以前的事。于是整间屋子的人都在替凶手证明“毒不可能是这样进去的”——这正是他想要的。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第四节，时间。你们以为那三道门闩是案子的核心。它不是。门闩之所以闩着，是因为那一夜根本没有人进来。她按习惯锁好门，按习惯服药，按习惯躺下。四点五十分，毒性发作。她推倒小桌、拉响铃绳，在完全清醒的状态里，一寸一寸地失去自己的身体。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第五节，那间屋里另外两个人。玛丽·卡文迪什穿过辛西娅的房间进去，她要找的是那份新遗嘱——她以为只要遗嘱不落到那个人手里，她的丈夫就还有一条活路。门闩上留下了她劳动臂章的深绿纤维，而她出来时打翻了蜡烛，地板上那片白色烛油就是她惊慌的痕迹。劳伦斯先生随后冲进去，看见的是通往辛西娅房间那扇没闩的门，于是他认定那个姑娘有罪，把床边的咖啡杯碾进了地毯。他们两个人都不是凶手，却都在替凶手把线索搅浑。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第六节，被烧掉的遗嘱，和被撬开的公文包。那天晚上，她正在楼下写那几封信——趁这个空档，有人上了楼。他用一把小刀撬开公文包的锁，找到了那封信；然后把她刚立好的遗嘱丢进了壁炉——她本来叫人点了火，那点火这时正好派上用场。灰里那一片没烧透的厚纸，是一个老人对未来的全部安排。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第七节，也是最精巧的一节：他们要的不只是她死，还要一场“无罪”。所以他们亲手准备了指向自己的证据——药房登记簿上一个足以被推翻的签名、阁楼上一副假胡子、约翰房里一只被塞进去的小药瓶，还有那封用约翰笔迹写的匿名信，把他支到几英里之外。等这些证据在法庭上被一条条拆掉，被告就会带着“无罪”两个字走出去。而一个人一旦被宣布无罪，就永远不能因同一罪行再次受审。他们谋的不是脱身，是豁免。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第八节，那盎司士的宁。星期一下午六点，库特药房的柜台前站着一位留黑胡子、戴夹鼻眼镜的先生。可同一时刻，至少有五个人看见英格尔索普先生走在两英里半外的路上。于是只有一种解释：走进药房的不是他，而是一个身形与步态都像他、嗓音天生低哑的人——他的表亲，伊夫琳·霍华德。她替他买了那盎司毒药，也替他签下了一个年轻绅士的名字。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第九节，那封信。他撬开公文包找到它，却不敢把纸带在身上：走廊上有人在刷楼梯，废纸篓会被搜查，屋里的火不能生。所以他把它撕成长条、卷成纸捻，插进壁炉台上那只瓷瓶，和别的纸捻混在一起——他打算以后再回来毁掉它。可惜他不敢再踏进那间屋子：我把怀疑告诉了全家每一个人，于是有十位业余侦探日夜看着他。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "第十节，也是最后一节：为什么我能找到它。因为黑斯廷斯随口说了一句“您的手在发抖”——而那天早上，我已经把壁炉台上的装饰摆正过一次。如果它们又乱了，就说明有人在两次之间碰过它们。整个案子最要紧的一件东西，是被一句闲话找到的。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "一个老人，为了钱，先娶了她，再杀她，最后想让自己被证明清白。而我唯一想请你们记住的是：他从来没有进过那间闩死的房间，他只是提前几天，往她每天都要喝的那瓶药里，加了一味她自己也常吃的药。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "阿尔弗雷德·英格尔索普、伊夫琳·霍华德：我以这封信、这只药瓶、这根绿线、这一盎司不需要存在的士的宁，指控你们合谋杀害艾米莉·英格尔索普。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "她到死都在叫您的名字，先生。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "阿尔弗雷德·英格尔索普没有回答。他看向伊夫琳·霍华德——那一眼很长，长到整间客厅都安静了下来。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "三天后，两人被正式逮捕。约翰·卡文迪什被释放的那天，玛丽在门口等了他四个小时。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我后来问波洛：如果当初您不去阻止贾普，会怎么样？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "那么，真凶会在法庭上被证明\"清白\"，然后拿着那位老太太的钱，在英格兰某个安静的乡下住到老死。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "而现在——他们只是两个被关起来的人。这就够了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "波洛，我要把这一切都写下来。从你到斯泰尔斯的那一天开始。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "写吧，我的朋友。也许会有人愿意读它。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "那本书后来真的被人读到了——一九二〇年，一个叫阿加莎·克里斯蒂的年轻女子，把《斯泰尔斯庄园奇案》交给了伦敦的出版商。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "而我，阿瑟·黑斯廷斯，只是把当时发生过的事，又讲了一遍而已。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "ending"
+    }
+  ]
+}

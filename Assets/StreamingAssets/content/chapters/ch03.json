@@ -1,0 +1,637 @@
+{
+  "id": "ch03",
+  "act": "第二章",
+  "title": "波洛登场",
+  "summary": "同一天早晨 · 斯泰尔斯圣玛丽村",
+  "beats": [
+    {
+      "t": "bg",
+      "id": "styles_village"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我主动请缨去村里发电报。走在村路上，我忽然想起一件事：这附近住着一位比利时人——去年从战火里逃出来的难民，被安置在教堂旁边的小房子里。",
+      "figs": []
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我曾在布鲁塞尔见过他。那时他在警局做事，现在什么也不做了，只是种菜、喝可可、读报。他叫赫尔克里·波洛。",
+      "figs": []
+    },
+    {
+      "t": "choice",
+      "options": [
+        {
+          "text": "\"斯泰尔斯庄园出了一桩谋杀案。\"",
+          "hint": "直接、干脆，也最像黑斯廷斯的说话方式。",
+          "score": 2,
+          "give": "",
+          "goto": ""
+        },
+        {
+          "text": "\"有一位太太死在自己的房间里，门是从里面闩住的。\"",
+          "hint": "把一个不可能的问题摆在他面前。",
+          "score": 3,
+          "give": "locked",
+          "goto": ""
+        },
+        {
+          "text": "\"村里人说您从前是个警探，我想看看是不是真的。\"",
+          "hint": "激他一下。",
+          "score": 1,
+          "give": "",
+          "goto": ""
+        }
+      ],
+      "prompt": "你敲开那扇门的时候，打算用什么理由把这位老先生请到斯泰尔斯来？"
+    },
+    {
+      "t": "bg",
+      "id": "styles_cottage"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "小屋的门打开了。站在门口的男人比我矮大半个头，头形像一枚鸡蛋，胡须修得像两把对称的刷子，衣领一尘不染——在一九一七年的埃塞克斯乡间，他讲究得近乎不合情理。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "黑斯廷斯！我的老朋友！请进，请进。我刚煮了可可——啊，不，你脸上写着事情。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "波洛，斯泰尔斯出事了。英格尔索普太太死了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "他正在整理桌上那副多米诺骨牌——把它们一张张摆直，边角对齐。听到这句话，他的手停了一瞬，随即把最后一张摆正。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“进来吧，黑斯廷斯。”他说，“你的靴子上带着斯泰尔斯的泥，还有一点点血——不是你的血。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我那天才知道，这位老先生在村里住了快一年，把每一家的家事都记得比本人清楚。他给我倒了一杯可可，自己在对面的椅子上坐下，两只手放在膝盖上，像一尊瓷像。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“你想请我去看一具尸体。”他说，“你先别急着讲你看到的。请你先讲讲——你**没有**看到的。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我愣住了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“一桩谋杀案里，最有价值的东西往往是**缺席**。”他举起一根手指，“比如：谁不在场？哪把钥匙不见了？哪一扇门没有闩？哪一个人，从头到尾没有说过一句真话，却每一句都查得实？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "那是我第一次听见他把破案说得像做算术。他管这叫“把灰色的脑细胞排成队”。后来我见过他用这套方法解开过三桩案子，而斯泰尔斯这一桩，让它们全都显得像热身。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "死了。死在锁着的房间里。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "你怎么知道锁着？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "因为你说这句话的时候，眼睛亮了一下。我的朋友，你是个诚实到可怕的人——你藏不住任何一件让你兴奋的事。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "去拿帽子吧。我们要去看一看那间房。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "bg",
+      "id": "styles_bedroom"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "医生们把卧室原封不动地锁了起来。波洛走进那间房的样子，我至今记得：他没有先看尸体躺过的地方，而是先看门。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "他先沿着门框走了一圈，用两根手指摸着锁舌与插销的边。接着他蹲下来看地板——不是看有没有脚印，而是看那块地毯被移动过的方向。他掏出一把小卷尺量了三次：门到床的距离、床到小圆桌的距离、小圆桌到壁炉的距离。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“你在量什么？”我问。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“量谎言。”他说，“人会说谎，房间不会。等所有人都对我讲完他们记得的事，我要用这把尺子去核对。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "然后他做了一件让我很不解的事：他打开通往辛西娅房间的那扇门，站在门框中间，把门闩来回拨了三次，又去看走廊那扇门的插销。最后他走到窗边，推开窗，探出半个身子，往楼下看了一眼。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“窗子下面是什么？”他问我。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“花圃。靠墙有一排郁金香，还有一条水管。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“很好。请让警察不要踩那条水管。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "三道门，全部从内侧闩住。撞开的这一道，插销还扭着。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "一个能进出的房间，变成了一只盒子。黑斯廷斯，我亲爱的朋友——这世上没有会自己上锁的盒子。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "所以只有两种可能。要么毒药是许多小时之前就进了她的身体，要么——有人不是从这些门进来的。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "现在，请你不要说话，也不要帮我。我们来找东西。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "investigate",
+      "scene": "styles_scene_bedroom"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "勘查结束时，波洛把结果记进了他那本小得可笑的黑皮笔记本里。他念给我听的时候，语气平静得像在报一份菜单。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "被碾成粉末的杯子。插着钥匙的公文包。地毯上的咖啡渍。门闩上的绿布丝。白色烛油。还有壁炉灰里的遗嘱残片。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "六件事。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "不。七件。第七件我自己知道就行了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "再说那七件事，我后来一件件写进了笔记：",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第一件，被碾成粉末的咖啡杯。同一张小桌上，玻璃台灯摔成两截，杯子却被踩成了粉——杯子比台灯结实得多，除非有人特意踩过它。而且台灯只是裂，说明桌子翻倒时并没有那么大的力。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第二件，插着钥匙的公文包。锁被小刀撬坏，里面的文件被翻得乱七八糟。她从每晚都把重要文件带上楼，那只包就是她的保险柜——前一天中午她还在满屋子找这把钥匙。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第三件，地毯上那块几乎看不出的圆形咖啡渍，还是湿的，闻起来是咖啡。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第四件，连通门门闩上那一小根深绿色布料纤维。艾米莉没有绿色的衣服。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第五件，地板上那一大片白色烛油——而这间房里只有油灯。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第六件，壁炉灰里的遗嘱残片。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第七件他没有说。直到整桩案子结束我才明白，那是他在药瓶上看到、却还没有说出口的东西。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "deduce",
+      "tag": "推理 · 第一题",
+      "prompt": "同一张翻倒的小桌上，玻璃台灯摔成两截，咖啡杯却被碾成了粉末。这意味着什么？",
+      "question": "同一张翻倒的小桌上，玻璃台灯摔成两截，咖啡杯却被碾成了粉末。这意味着什么？",
+      "answers": [
+        "杯子比台灯更脆弱，所以碎得更彻底。",
+        "有人事后故意把杯子踩碎——不是意外，是有人要毁掉杯里的东西。",
+        "女主人临终的挣扎正好踩到了杯子。"
+      ],
+      "answer": 1,
+      "explain": "台灯只是一个偶然摔坏的物件，杯子却是被人用鞋底碾过的。谁会这样做？两种动机：杯里有毒——或者，杯里<b>没有</b>毒。",
+      "wrong": [
+        "玻璃的碎裂方式不会差得这么远。台灯只是断成两截，这说明桌子的翻倒并不猛烈。",
+        "",
+        "她当时已经没有力气站起来了，更不可能把杯子碾成粉末。"
+      ],
+      "give": "",
+      "insight": "cup",
+      "score": 8
+    },
+    {
+      "t": "deduce",
+      "give": "fire",
+      "tag": "推理 · 第二题",
+      "prompt": "那天是全年最热的日子之一，气温八十华氏度。她为什么要在卧室壁炉里生火？",
+      "question": "那天是全年最热的日子之一，气温八十华氏度。她为什么要在卧室壁炉里生火？",
+      "answers": [
+        "她怕冷，年纪大了。",
+        "仆人多卡斯想掩饰什么。",
+        "她要销毁一样只能烧掉的东西——遗嘱。"
+      ],
+      "answer": 2,
+      "explain": "灰烬里留下了厚纸的残片。她当天下午刚立了新遗嘱，当天晚上就把它烧了——她改变主意的速度，比火还快。",
+      "wrong": [
+        "七月的英国，屋里八十度。",
+        "多卡斯那一晚不在家。",
+        ""
+      ],
+      "insight": "fire",
+      "score": 8
+    }
+  ]
+}

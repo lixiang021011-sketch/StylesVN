@@ -1,0 +1,31 @@
+# 换行统一成 LF（Windows 上编辑 Unity 资源最容易踩的坑）
+* text=auto eol=lf
+
+# C# / JS / JSON 走文本 diff
+*.cs    text diff=csharp
+*.js    text
+*.json  text
+*.md    text
+*.txt   text
+*.unity text
+*.asset text
+*.meta  text
+
+# 二进制（避免 git 试图做行尾转换、也避免污染 diff）
+*.png   binary
+*.jpg   binary
+*.otf   binary
+*.ttf   binary
+*.dll   binary
+*.so    binary
+*.apk   binary
+*.exe   binary
+*.unitypackage binary
+
+# ---------------------------------------------------------------------------
+# 可选：用 Git LFS 管理美术与字体（本仓库目前约 65MB，不用 LFS 也放得下）。
+# 想启用就先 `git lfs install`，再把下面三行的注释去掉，然后重新 add。
+# *.png filter=lfs diff=lfs merge=lfs -text
+# *.otf filter=lfs diff=lfs merge=lfs -text
+# *.unitypackage filter=lfs diff=lfs merge=lfs -text
+# ---------------------------------------------------------------------------

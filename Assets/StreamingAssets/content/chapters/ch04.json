@@ -1,0 +1,577 @@
+{
+  "id": "ch04",
+  "act": "第三章",
+  "title": "药与杯",
+  "summary": "下午 · 客厅",
+  "beats": [
+    {
+      "t": "bg",
+      "id": "styles_boudoir"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "波洛没有立刻去审人。他做的第一件事，是走到客厅的茶盘边上——那上面还摆着昨晚没收拾的咖啡杯。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "仆人粗心是侦探的好运气。多卡斯昨晚不在家，所以杯子没有被收走。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "茶盘上摆着五只小咖啡杯，杯底残留的糖浆各不相同。多卡斯一只只报了过去：英格尔索普太太加两块糖；约翰先生不加；玛丽太太加一块；劳伦斯先生加三块；辛西娅小姐——",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“辛西娅小姐喝咖啡从不加糖。”多卡斯说得很确定，“她说糖会盖住真正的味道，那孩子在这方面像个药剂师。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "波洛把每只杯子的位置记了下来，然后在茶盘边上站了很久，一动不动，像在看一幅画。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“数目对不上。”他最后说，“晚饭后收上来的杯子，应该和喝咖啡的人一样多。这里少了一只——或者说，多了一只。黑斯廷斯，一只杯子少了，意味着有人不愿意让它被人看见。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "接着他去了厨房。厨娘把昨晚的东西原样保留着：一只酒精灯、一只小锅、锅里还剩一点掺了朗姆酒的可可、旁边一只喝空了的杯子和碟子。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“可可。”波洛俯身闻了闻，“她自己煮。可可是苦的，苦得能盖住很多东西——所以每一个蹩脚的凶手都喜欢它。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“你是说毒药在可可里？”我问。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“我是说，每一个看过侦探小说的人都会以为毒药在可可里。”他直起身，“所以他们不会去看别的地方。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "下午三点，他把那只大药瓶端到窗边，让光照透瓶身。瓶里是一种乳白色的浑浊药水，是威尔金斯医生开的补药，她每晚睡前服一剂。他摇了摇，让沉淀散开，然后把瓶子放回原处，像是怕惊着它。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“补药里有什么？”我问。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“士的宁——微量的。它能开胃，也能让人精神好一点，一九一七年的医生很喜欢开它。可她同时还吃另一种东西。”他指着梳妆台上一个空的纸盒，“溴化物。她夜里睡不好，医生给了她一盒溴化物药粉，两天前刚用完。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“两种药一起吃，会怎样？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“溴化物会让士的宁沉淀出来。”他做了一个把沙子按到杯底的手势，“在含士的宁的药水里加入溴化物，士的宁就会结晶、沉到瓶底。药水一天天变浓，而处方、瓶子、服药的习惯——全都干净得无可指摘。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我记得自己当时没有立刻听懂。多年以后我才明白，那天下午在窗边，波洛已经把整桩案子的机关拆开了一半。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "接下来两个小时，他坐在客厅里听仆人说话——不是审问，是聊天。他问多卡斯家里的开销、问安妮昨晚谁最后一个上楼、问厨娘那只可可锅平时放在哪里，还问了每个人的睡房在走廊的哪一侧。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "多卡斯的证言里有一句后来变得极要紧的话：案发那天中午，女主人发现自己的钥匙不见了，把整个房间翻了一遍。多卡斯帮她找过，没找到。第二天早上，那把钥匙却插在公文包的锁孔里，而锁已经被人用小刀撬坏了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“她说她要改遗嘱。”多卡斯压低了声音，“太太最恨别人动她的东西。那天下午她把先生叫进书房，出来的时候两个人脸色都不好看。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "安妮补充的则是另一种细节。她说太太的补药每晚都是她自己拿，从不让女仆碰；她说案发那夜她听见楼梯响过两次，可说不出是几点；她还说，第二天早上她在走廊上撞见伊夫琳·霍华德小姐回来过一趟——霍华德小姐说自己“什么也没看见”。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“一个说自己什么都没看见的人，”波洛在回去的路上对我说，“往往是看得最清楚的那一个。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "investigate",
+      "scene": "styles_scene_boudoir"
+    },
+    {
+      "t": "deduce",
+      "tag": "推理 · 第三题",
+      "prompt": "咖啡杯数对不上，杯底的糖也不对。为什么辛西娅·默多克的杯子会成为关键？",
+      "question": "咖啡杯数对不上，杯底的糖也不对。为什么辛西娅·默多克的杯子会成为关键？",
+      "answers": [
+        "因为她在药房做事，能拿到毒药。",
+        "因为那一晚是辛西娅端咖啡上楼给死者的——如果有人要往杯里加东西，机会就在那几分钟里。",
+        "因为她不喝咖啡。"
+      ],
+      "answer": 1,
+      "explain": "昨晚辛西娅扶母亲上楼，还带了一杯咖啡。如果那杯咖啡有毒，辛西娅就在最危险的位置上。整栋房子里，最先被怀疑的会是她。",
+      "wrong": [
+        "药房是背景，不是这一段要说明的东西。",
+        "",
+        "她喝咖啡，只是不加糖——这正是一杯一杯数下去才能发现的事。"
+      ],
+      "give": "",
+      "insight": "cups",
+      "score": 8
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "所以你怀疑辛西娅？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "不。我怀疑有人<b>希望</b>我怀疑她。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "ask",
+      "title": "询问：医生与管家",
+      "chars": [
+        "doctors",
+        "dorcas"
+      ],
+      "need": 3
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "回到死者房间，波洛把那只大药瓶端到窗边，让光照透瓶身。他看了很久，忽然笑了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "黑斯廷斯，你记不记得，威尔金斯医生说过：这瓶补药里有微量的士的宁。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "记得。可他说一瓶全喝下去也未必致命。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "对极了。所以凶手需要的不是一整瓶——凶手需要的是<b>一瓶里的最后一滴</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "deduce",
+      "give": "chem_trick",
+      "tag": "推理 · 第四题",
+      "prompt": "她的补药是干净的，处方是医生开的，瓶子一直在她自己的房里。怎样才能让它变成致命的？",
+      "question": "她的补药是干净的，处方是医生开的，瓶子一直在她自己的房里。怎样才能让它变成致命的？",
+      "answers": [
+        "换掉整瓶药，重新配一瓶浓的。",
+        "把士的宁加进瓶里——但那样瓶口和药液都会留下痕迹。",
+        "加入溴化物：它会让士的宁结晶沉淀到瓶底，药一天天变浓，最后一剂才是最毒的一剂。"
+      ],
+      "answer": 2,
+      "explain": "这是一道化学题，不是侦探题。溴化物——正是她失眠时服用的那种药粉——会让药液里的士的宁逐渐沉淀。凶手只要把一包粉悄悄溶进药瓶，之后什么都不必做：时间会替他把毒攒起来，而瓶子、处方、习惯全都无可指摘。",
+      "wrong": [
+        "换药瓶风险太大，药房和医生都会发现。",
+        "直接投毒会留下灌装的痕迹，也会让第一剂就致命，而凶手需要的是等时机。",
+        ""
+      ],
+      "insight": "chem_trick",
+      "score": 12
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "可溴化物粉的盒子是空的。多卡斯说，最后一包两天前就吃完了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "所以那不是\"她\"吃的药粉。所以那盒药粉不是被吃掉的——<b>是被用掉的</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "而这瓶药，是她每晚的习惯。她活着的每一天都在喝它，喝到最后一天，才被它杀掉。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "他走到壁炉边，把手放在壁炉台上，轻轻把那些装饰摆正——摆正，又摆正。后来我才明白：每当他心里真正的答案开始成形时，他就会做这件多余的小事。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "note",
+      "title": "为什么不是那杯可可？",
+      "icon": "◆",
+      "body": "她睡前自己用小锅煮了可可，锅里还剩一点，杯也喝空了。看起来最可疑。\n但士的宁发作极快：十几分钟到半小时。她是在凌晨四时五十分才发作的。\n除非可可里下的毒迟到了几个小时——否则那杯可可，是个<b>假线索</b>。\n而真正的好处在于：可可、咖啡、茶杯，全都摆在那里，等着一个着急的警察去化验。"
+    }
+  ]
+}

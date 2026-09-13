@@ -1,0 +1,1362 @@
+{
+  "id": "ch06",
+  "act": "第五章",
+  "title": "为什么他拒绝开口",
+  "summary": "调查庭当晚 · 书房",
+  "beats": [
+    {
+      "t": "bg",
+      "id": "styles_library"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "调查结束后，贾普探长把阿尔弗雷德·英格尔索普带进了书房。我一辈子没见过那样不体面的场面：一个男人被三条线索围住，却只是低着头，一言不发。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“你为什么不让他被捕？”我在回村的路上问波洛，“他刚才当着全庭的面承认自己不愿提供不在场证明——这不就是认罪吗？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“我亲爱的黑斯廷斯，”他停下脚步，“你刚刚亲手替凶手关上了最后一扇门。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“什么意思？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“请你记住一条法律：一个人一旦因某项罪名被宣判无罪，就永远不能因同一罪行再次受审。这条古老的规则保护着每一个清白的人；可它也保护着一种最危险的罪犯——先在法庭上被证明无罪，从此获得终身的豁免。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "他掏出表，看了一眼，又合上：“所以你明白了吗？有人亲手准备了一批证据：足够让他被逮捕，足够让报纸兴奋，也足够在最后关头被彻底推翻。他要的不是脱身——他要的是清白。他要让整个英格兰听见判决书念出‘无罪’两个字。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“那我们还怎么抓他？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“我们要在他还没有拿到那份判决书之前抓住他。”波洛说，“为此，我们必须让他以为自己在赢。让他继续布置，继续自信，继续把每一件东西摆到他想要的位置上——直到最后一件东西摆错。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "那天晚上，贾普探长骂了整整一个小时。他说苏格兰场不能等，说报纸每天都在催，说一个不肯说话的丈夫就是最好的被告。波洛只回了一句：“探长先生，您可以逮捕一打无辜的人，然后让真正的凶手在旁听席上鼓掌。也可以给我十天。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我承认，那十天里我动摇过很多次。所有的东西都指向约翰：他有动机，有笔迹，有药瓶，有一副假胡子，而且他没有不在场证明。最让我不安的是玛丽——她每次听见丈夫的名字都极度平静，那种平静不像信任，像一个已经知道结局的人。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "japp",
+      "text": "英格尔索普先生，我最后一次问您：星期一傍晚六点，您在什么地方？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "alfred",
+      "text": "我不回答。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "japp",
+      "text": "那就别怪我明天早上带手铐来。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "探长先生，请允许我问一句，只一句。请您先想一想，逮捕他意味着什么。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "japp",
+      "text": "意味着案子破了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "不。意味着这个案子<b>永远破不了</b>。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "阿尔弗雷德慢慢抬起头来。那是整桩案子里第一次，我在他的眼睛里看见了别的东西——不是恐惧，是计算。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "英格尔索普先生，我知道您在六点钟做了什么。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "alfred",
+      "text": "（他的手指在膝盖上收紧了。）",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "您当时正陪着雷克斯太太，从邻村一路走回她的农舍。这段路至少两英里半，而路上至少有五个人看见了你们。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "（雷克斯太太——那个全村流言里与约翰·卡文迪什有关的女人？）",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ],
+      "give": "raikes"
+    },
+    {
+      "t": "fx",
+      "fx": "shake"
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "所以，六点钟走进库特药房的人不是您。您不能承认，因为承认就等于当众揭开一桩私事——而那桩私事，本来就不是您的。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "alfred",
+      "text": "您在替谁遮掩，先生？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "（他不会回答。这个人不会说任何一句对他不利的话——可他也没有说一句谎。）",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "alfred",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "left",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "japp",
+      "text": "我的天。那我抓谁？登记簿上是约翰的字。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "这正是我要您做的第二件事：<b>不要</b>抓任何人——至少现在不要。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "japp",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "deduce",
+      "tag": "推理 · 第六题",
+      "prompt": "波洛为什么要拼命阻止贾普逮捕阿尔弗雷德？这在旁人看来几乎是违背常理的。",
+      "question": "波洛为什么要拼命阻止贾普逮捕阿尔弗雷德？这在旁人看来几乎是违背常理的。",
+      "answers": [
+        "因为他相信阿尔弗雷德是无辜的。",
+        "因为他担心真正的凶手会跑掉。",
+        "因为他看出阿尔弗雷德<b>想</b>被逮捕——一个精心布置的证据链，只要在法庭上被推翻，他就能被判无罪，从此再也不能因这桩案子受审。"
+      ],
+      "answer": 2,
+      "explain": "证据太多、太顺、太方便了。当他发现这些\"铁证\"从药房到阁楼一路为约翰铺好时，他就明白：这不是证据，这是陷阱。有人要的不是脱罪，是先被抓住，再被彻底放走。",
+      "wrong": [
+        "波洛从一开始就觉得他可疑。",
+        "凶手跑掉并不可怕，这个国家的法律会追到天涯海角——可怕的是永远不能追。",
+        ""
+      ],
+      "give": "",
+      "insight": "double",
+      "score": 14
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "黑斯廷斯，你记不记得药房伙计的描述？黑胡子，夹鼻眼镜，声音低哑。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "那是阿尔弗雷德的样子。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "那是阿尔弗雷德的<b>形状</b>。可是有一个人的身形他相像、个头不比他矮、声音低得像男人——而且她与他是表亲，连走路的样子都像。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "choice",
+      "options": [
+        {
+          "text": "伊夫琳·霍华德",
+          "hint": "那个诅咒他、又在他婚礼上站得最近的女人。",
+          "score": 6,
+          "give": "eve_letter",
+          "goto": ""
+        },
+        {
+          "text": "玛丽·卡文迪什",
+          "hint": "她的沉默比任何人都深。",
+          "score": 0,
+          "give": "",
+          "goto": ""
+        },
+        {
+          "text": "劳伦斯·卡文迪什",
+          "hint": "他总是在最不该害怕的时候害怕。",
+          "score": 0,
+          "give": "",
+          "goto": ""
+        }
+      ],
+      "prompt": "你——波洛——此刻心里的那个名字是："
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "先把名字放进衣袋里，不要急着拿出来给人看。因为现在，我们还需要一个证明。<i>而证据是会自己走出来的——只要我们知道该往哪里看。</i>",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "临走之前，波洛又去了一趟村口的库特药房。这一次他不看约翰的签名，只看签名旁边那些没人会留意的小字。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ],
+      "fx": "fade"
+    },
+    {
+      "t": "investigate",
+      "scene": "styles_scene_chemist"
+    },
+    {
+      "t": "bg",
+      "id": "styles_garden"
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "那天傍晚，我们沿着花园走了一圈。玫瑰被战时的草气挤得只剩几丛，但夕阳照在旧石墙上，仍旧是英格兰最好的颜色。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "接下来的几天，斯泰尔斯变成了一座互相监视的房子。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "贾普探长把两个警员留在村里，理由是“协助调查”；实际上他们每天记的是谁出门、几点回来。门厅里没有人再大声说话，但每一扇门后面都在说话。安妮告诉多卡斯，玛丽太太连着两夜没有睡；多卡斯告诉厨娘，书房里的灯亮到很晚；厨娘把这两句话加上自己的一句，端到了早餐桌上。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我也开始失眠。第三夜，我听见走廊上有极轻的脚步。我披上衣服出去，看见玛丽·卡文迪什提着一盏小灯下楼，披肩上还带着夜露。她走的是通往村子那条小路。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我承认我跟了上去。那不是一个绅士该做的事，可我当时想的是那桩案子。她走了半英里，在教区边缘的一栋小房子前停下——那是鲍尔斯坦医生租的房子。窗上有灯光，她敲了两下，门就开了。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我在树影里站了很久。回去的路上，我一遍一遍地替她找理由：也许她在问药理上的事；也许她在替我打听什么；也许……",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "第二天早餐时，我忍不住把这件事说了出来。波洛听完，没有惊讶，也没有责备。他只是把杯子放下，问我：“黑斯廷斯，你刚才说她带着一盏小灯？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“是的。夜里很黑。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“很好。”他说，“那么请你告诉我——一个人如果去同一个地方走了十几次，为什么还需要灯？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“路不好走。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“路是她熟的；不熟的是她不想让人看清的东西。”他拿起手杖，“我的朋友，你看见的也许是私情，也许是别的东西。这两种在我们这一行里要分得很清楚——前者与案子无关，后者会要人的命。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "那天下午，我第一次真正和玛丽面对面。她坐在窗边缝东西，见我进来，手上的针没有停。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“上尉，您昨晚跟了我。”她说得很平静，“如果您想问我为什么去那栋房子，我可以告诉您：我请鲍尔斯坦医生替我配一味药——我睡不好。您也可以去问他。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“我不该跟您。”我说。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "“您当然不该。”她把线咬断，“可这栋房子里现在只有两种人：被怀疑的，和替别人跑腿的。您想当我这一边的，是不是？”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "我说不出话来。她忽然笑了，那是我见到她以来第一次真正的笑：“别难过，上尉。您比他们诚实——至少您是跟着我，而不是翻我的抽屉。”",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "narr",
+      "text": "后来我才知道，那几天全家人的抽屉都被翻过：劳伦斯找的是能证明辛西娅清白的东西；约翰找的是他母亲的新遗嘱；而伊夫琳·霍华德——她根本没有住在这里，却在某个夜里回来过一趟，安妮撞见了她。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "波洛，我们已经怀疑过每一个人了。约翰有笔迹，阿尔弗雷德有动机，辛西娅能拿到毒药，劳伦斯的举动古怪，玛丽沉默得像一堵墙。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "你说得对。而这就是问题所在。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "什么问题？",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "一桩真正的谋杀案不该这么拥挤。真的凶手只留下一个影子——而那些多余的黑影，是有人替他画上去的。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "所以我不再问\"谁有罪\"，我问另一个问题：<i>是谁费了这么大的力气，教我该怀疑谁？</i>",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "hastings",
+      "text": "（他停下来，把一朵快要谢的玫瑰扶正，让它靠着墙。这个动作他做了很久。）",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    },
+    {
+      "t": "say",
+      "who": "poirot",
+      "text": "黑斯廷斯，记住一件事：证据太多的时候，警察会高兴，侦探会害怕。",
+      "figs": [
+        {
+          "id": "poirot",
+          "pos": "mid",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        },
+        {
+          "id": "hastings",
+          "pos": "right",
+          "emotion": "neutral",
+          "flip": false,
+          "dim": false
+        }
+      ]
+    }
+  ]
+}

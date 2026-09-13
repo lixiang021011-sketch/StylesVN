@@ -1,0 +1,40 @@
+{
+  "chapters": 9,
+  "beats": 486,
+  "says": 437,
+  "textChars": 22624,
+  "askChars": 2253,
+  "askLines": 79,
+  "minutesAt250": 100,
+  "evidence": 36,
+  "characters": 15,
+  "investigations": 5,
+  "accusations": 6,
+  "backgroundsNeeded": [
+    "styles_bedroom",
+    "styles_board",
+    "styles_boudoir",
+    "styles_chemist",
+    "styles_corridor",
+    "styles_cottage",
+    "styles_courtroom",
+    "styles_garden",
+    "styles_hall",
+    "styles_library",
+    "styles_manor_dusk",
+    "styles_manor_night",
+    "styles_village"
+  ],
+  "figuresNeeded": [
+    "alfred|neutral",
+    "bauerstein|neutral",
+    "emily|neutral",
+    "evelyn|neutral",
+    "hastings|neutral",
+    "japp|neutral",
+    "john|neutral",
+    "lawrence|neutral",
+    "mary|neutral",
+    "poirot|neutral"
+  ]
+}

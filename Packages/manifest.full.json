@@ -1,0 +1,21 @@
+{
+  "_comment": "官方包写法（需 UPM 正常工作时使用）：覆盖到 manifest.json，并删除 Assets/ThirdParty 与 Assets/Plugins/Newtonsoft.Json.dll",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.test-framework": "1.1.33",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0"
+  }
+}
