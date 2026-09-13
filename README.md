@@ -231,6 +231,44 @@ Builds\Windows\Styles.exe -styles-selfcheck -screen-fullscreen 0
 原著保护期：美国已进入公有领域；英国 / 欧盟至 2046 年底；中国大陆至 2026 年底。
 如权利人提出要求，将立即下架相关内容。
 
+---
+
+## English
+
+**StylesVN** — an unofficial, fan-made visual-novel adaptation of Agatha Christie's
+*The Mysterious Affair at Styles* (1920). All Chinese text is an original rewrite; no published
+translation was used. Not affiliated with, or endorsed by, the rights holders; content will be
+removed on request. (The novel is public domain in the US; still protected in the UK/EU until
+the end of 2046 and in mainland China until the end of 2026.)
+
+* **Engine / target**: Unity 2022.3 LTS (2022.3.62f3c1, built-in render pipeline), Windows + Android.
+* **Scope**: 9 chapters · 495 script beats · 437 spoken lines · ~22.6k Chinese characters (~100 min playing time),
+  with 8 deduction puzzles, 5 investigation scenes, 3 interrogations, 6 final-accusation questions and 36 evidence items.
+* **Engine-independent core**: the story lives in JSON (`Assets/StreamingAssets/content/`), driven by a small
+  interpreter (`GameDirector`) through an `IVnView` interface — so the same script can be played by the real UI
+  or by an automated mock view.
+* **Built-in checks**: the shipped player can run its own health check (32 items, including a full
+  play-through of the real UI from title to ending):
+
+  ```bat
+  Builds\Windows\Styles.exe -styles-selfcheck -screen-fullscreen 0
+  ```
+
+  Results land in `Builds\Windows\ToolsOut/system_check.txt` (+ screenshots).
+  Editor-side gates: `check.cmd` (compile + content validation + full-story self test).
+* **Build note**: Unity must be run with **`-noUpm`**. Unity's Package Manager crashes on the machine
+  this project was authored on, so uGUI / TextMesh Pro / Newtonsoft.Json are vendored under
+  `Assets/ThirdParty`, `Assets/TextMesh Pro` and `Assets/Plugins`. On a healthy Unity install you may
+  instead restore `Packages/manifest.full.json` and delete those vendored copies.
+* **Tooling**: the script is authored in a small JS DSL and converted to JSON
+  (`tools/convert_from_js.js`); art was generated with a local ComfyUI pipeline (`tools/comfy/pipeline.py`).
+* **Licensing**: source code under MIT (`LICENSE-CODE`); story text and art assets are
+  all-rights-reserved with fan-work terms (`LICENSE-ASSETS`); third-party notices in
+  `THIRD_PARTY_NOTICES.md` and `LICENSES/`. Builds are published through GitHub Releases, not committed.
+* **Docs**: `docs/系统架构与操作逻辑.md` (architecture and control flow),
+  `docs/玩法介绍_测试者版.md` (player & tester guide), `PUBLISHING.md` (release checklist),
+  `docs/仓库周边对照_FallenAngel_vs_StylesVN.md` (repo-scaffolding comparison with the author's other project).
+
 ## 上传 / 发布注意
 
 * 仓库**只放源码**：`Library/`（Unity 缓存，约 2.5 GB）与 `Builds/`（成品，约 848 MB）已在 `.gitignore` 中排除；

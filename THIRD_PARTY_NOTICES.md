@@ -18,8 +18,15 @@
 
 | 组件 | 位置 | 许可 | 注意 |
 |---|---|---|---|
-| Newtonsoft.Json（Json.NET）——经 Unity 打包的版本 | `Assets/Plugins/Newtonsoft.Json.dll`、`Packages/com.unity.nuget.newtonsoft-json/` | **Unity Companion License**（来源文件：`LICENSES/Unity-Companion-License-NewtonsoftJson.md`） | ⚠️ 注意：上游 Json.NET 本身是 **MIT**，但工程里这一份是 Unity 的 UPM 重打包版，随包附的是 Unity Companion License。许可全文已放在 `LICENSES/`。若你想只受 MIT 约束，请改从 NuGet 官方发行版取 DLL 并自行附带 MIT 全文 |
+| Newtonsoft.Json（Json.NET）——经 Unity 打包的版本 | `Assets/Plugins/Newtonsoft.Json.dll`、`Packages/com.unity.nuget.newtonsoft-json/` | **包整体：Unity Companion License**（`LICENSES/Unity-Companion-License-NewtonsoftJson.md`）；**包内组件：MIT** | 这是「两层」许可，两个文件都要留：① Unity 的 UPM 包本身按 Unity Companion License 分发；② 包内 `Third Party Notices.md` 声明其打包的组件（`Newtonsoft.Json`、`Json.Net.Unity3D`、`Newtonsoft.Json-for-Unity`、`com.newtonsoft.json`）**均为 MIT**，我们已经把该文件放进 `LICENSES/MIT-Newtonsoft.Json-third-party-notices.md`（含 MIT 全文与 `Copyright (c) 2007 James Newton-King`）。 |
 | Noto Serif SC（思源宋体简体） | `Assets/Fonts/NotoSerifSC-Regular.otf`、`NotoSerifSC-Bold.otf` | SIL Open Font License 1.1（全文：`LICENSES/OFL-1.1-NotoSerifSC.txt`） | **必须**随字体附 OFL 全文；若改了字体名要遵守 OFL 的保留名称条款；游戏内嵌字体属于分发，OFL 允许 |
+| LiberationSans（TextMesh Pro 官方包自带） | `Assets/TextMesh Pro/Fonts/LiberationSans.ttf` | SIL Open Font License 1.1（就近：`Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt`） | 来自 Unity 的 TMP 包，随包已附 OFL；本工程用它作为 TMP 默认字体的后备 |
+| EmojiOne 表情图（TextMesh Pro 官方包自带） | `Assets/TextMesh Pro/Sprites/` | 见同目录 `EmojiOne Attribution.txt`（该素材要求署名，条款以其官网为准） | ⚠️ 若发行版**用不到**表情 sprite，最干净的做法是删掉 `Assets/TextMesh Pro/Sprites/`（同时检查 TMP Settings 的默认 sprite 指向）；要保留就随发行包附上该署名文件 |
+| TextMesh Pro 示例包（未展开进 Assets） | `Packages/com.unity.textmeshpro/Package Resources/TMP Examples & Extras.unitypackage` | 见上：包内自带 Anton / Bangers / Oswald / Roboto / LiberationSans 等字体与 EmojiOne 表情图，各自许可见包内 OFL 与 Attribution 文件 | 本工程**没有**把该示例包展开到 `Assets/`，因此这些字体不作为工程资产分发；将来若展开，需要按上表逐项登记（并注意 **Roboto 是 Apache-2.0**，不是 OFL） |
+
+> **关于 Unity Companion License**：Unity 官方包只附**链接**、不附条款全文（`LICENSES/Unity-Companion-License-*.md` 就是官方原文）。
+> 我们沿用 Unity 自己的分发方式；需要完整条款时请访问
+> <https://unity.com/legal/licenses/unity-companion-license>。
 
 ## 3. 仅在开发/离线流程中使用（不进成品）
 

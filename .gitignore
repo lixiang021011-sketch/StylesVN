@@ -57,3 +57,22 @@ Recordings/
 #   ToolsOut/content_report.txt / asset_manifest.json / qa_report.json
 #   ToolsOut/contact_backgrounds.png / contact_characters.png
 #   ToolsOut/selftest*.log（可删）
+
+# ---------------------------------------------------------------
+# 与 FallenAngel 对齐的几条（见 docs/仓库周边对照_FallenAngel_vs_StylesVN.md）
+# ---------------------------------------------------------------
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python 缓存（tools/ 下的脚本）
+__pycache__/
+*.pyc
+
+# 崩溃转储
+*.stackdump
+
+# 第三方音频：工程目前没有音频。将来若引入他人的音乐/音效，
+# 请沿用 FallenAngel 的做法——本地保留、公开版不入库（只发自制或已授权素材）。
+# Assets/Resources/Audio/

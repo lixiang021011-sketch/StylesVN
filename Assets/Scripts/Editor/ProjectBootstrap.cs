@@ -166,6 +166,19 @@ namespace Styles.EditorTools
             if (Application.isBatchMode) EditorApplication.Exit(ok ? 0 : 2);
         }
 
+        /// <summary>
+        /// 只做内容与素材校验，**不改动工程文件**（给 check.cmd / check.sh / CI 用）。
+        /// 与 RunAll 的区别是不重建启动场景：BuildBootScene() 每次都重新生成一份场景，
+        /// Unity 会分配新的 fileID，于是跑一次检查就会把 Assets/Scenes/Boot.unity 弄脏
+        /// （几百行无意义 diff）。日常检查用这个，改过场景生成代码后再跑 RunAll。
+        /// </summary>
+        public static void ValidateOnly()
+        {
+            var ok = ContentValidator.ValidateAll(true);
+            Debug.Log("[Styles] 内容校验完成：" + (ok ? "通过" : "有警告"));
+            if (Application.isBatchMode) EditorApplication.Exit(ok ? 0 : 2);
+        }
+
         public static void RunAllAndBuildWindows()
         {
             ConfigureProject();
